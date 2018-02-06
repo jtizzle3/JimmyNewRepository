@@ -1,0 +1,7 @@
+  <h1>The Dropdown Game</h1>
+  <h3>Quite possibly the lamest game ever!</h3>
+
+  <div id="game">
+    <p>you are lame</p>
+    <h2>you are cool</h2>
+  </div>
